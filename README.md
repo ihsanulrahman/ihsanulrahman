@@ -3,6 +3,8 @@
 
 - 🌱 Offical maintainer of [VoltageOS](https://github.com/VoltageOS) for [Miatoll](https://github.com/ihsanulrahman/device_xiaomi_miatoll?tab=readme-ov-file#device-tree-for-xiaomi-redmi-note-9spropro-max--note-10-lite--poco-m2-pro-miatoll)
 
+- 🌱 Offical Co-maintainer of [BlissROMs](https://github.com/BlissRoms) for [Miatoll](https://github.com/ihsanulrahman/device_xiaomi_miatoll?tab=readme-ov-file#device-tree-for-xiaomi-redmi-note-9spropro-max--note-10-lite--poco-m2-pro-miatoll)
+
 - 📫 How to reach me [Here](mailto:ihsanulrahman@gmail.com)
 
 - ⚡ Fun fact **Im a Medical Lab Tech. by profession**
