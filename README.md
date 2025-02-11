@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm IHSAN UL RAHMAN</h1>
 <h3 align="center">A Noob Developer</h3>
 
-- 🌱 Offical maintainer of [VoltageOS](https://github.com/VoltageOS) for [Miatoll](https://github.com/ihsanulrahman/device_xiaomi_miatoll?tab=readme-ov-file#device-tree-for-xiaomi-redmi-note-9spropro-max--note-10-lite--poco-m2-pro-miatoll)
+<div align="center">
+  <a href="https://ihsanulrahman.github.io">More About Me</a>
+</div>
 
-- 🌱 Offical Co-maintainer of [BlissROMs](https://github.com/BlissRoms) for [Miatoll](https://github.com/ihsanulrahman/device_xiaomi_miatoll?tab=readme-ov-file#device-tree-for-xiaomi-redmi-note-9spropro-max--note-10-lite--poco-m2-pro-miatoll)
+- 🌱 Offical maintainer of [VoltageOS](https://github.com/VoltageOS) for [Miatoll](https://github.com/ihsanulrahman/device_xiaomi_miatoll?tab=readme-ov-file#device-tree-for-xiaomi-redmi-note-9spropro-max--note-10-lite--poco-m2-pro-miatoll)
 
 - 📫 How to reach me [Here](mailto:ihsanulrahman@gmail.com)
 
